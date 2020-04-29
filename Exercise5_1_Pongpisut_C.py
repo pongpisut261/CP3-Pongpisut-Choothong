@@ -1,0 +1,6 @@
+input1 = int(input('ระบุตัวเลข :'))
+input2 = int(input('ระบุตัวเลข :'))
+print(input1 , '+' , input2 , '=' , input1 + input2 )
+print(input1 , '-' , input2 , '=' , input1 - input2 )
+print(input1 , '*' , input2 , '=' , input1 * input2 )
+print(input1 , '/' , input2 , '=' , input1 / input2 )
